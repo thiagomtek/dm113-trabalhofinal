@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedidoService", "PedidoService.csproj", "{A71E370F-1031-40A7-B29F-BB88AE5C9AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedidosClient", "..\PedidosClient\PedidosClient.csproj", "{5DAD4822-4774-40E6-B25F-885D8048FBF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A71E370F-1031-40A7-B29F-BB88AE5C9AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71E370F-1031-40A7-B29F-BB88AE5C9AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71E370F-1031-40A7-B29F-BB88AE5C9AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71E370F-1031-40A7-B29F-BB88AE5C9AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DAD4822-4774-40E6-B25F-885D8048FBF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DAD4822-4774-40E6-B25F-885D8048FBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DAD4822-4774-40E6-B25F-885D8048FBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DAD4822-4774-40E6-B25F-885D8048FBF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8286640F-AED0-4872-AC6C-B199EEDF5397}
+	EndGlobalSection
+EndGlobal

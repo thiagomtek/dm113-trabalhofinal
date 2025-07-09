@@ -1,0 +1,36 @@
+syntax = "proto3";
+
+option csharp_namespace = "PedidosService";
+
+package pedidos;
+
+
+service PedidoManager {
+
+  rpc RegistrarPedido (NovoPedidoRequest) returns (PedidoResponse);
+
+  // Operação Streaming Bidirecional: Acompanhar o status de pedidos
+  rpc AcompanharPedidos (stream PedidoId) returns (stream PedidoStatusUpdate);
+}
+
+message NovoPedidoRequest {
+  string cliente_nome = 1;
+  string produto_descricao = 2;
+  double valor = 3;
+}
+
+message PedidoResponse {
+  string pedido_id = 1;
+  string status = 2;
+  string mensagem = 3;
+}
+
+message PedidoId {
+  string id = 1;
+}
+
+message PedidoStatusUpdate {
+  string pedido_id = 1;
+  string novo_status = 2;
+  string timestamp = 3;
+}

@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tmagalhaes\\GIT\\dm113-trabalhofinal\\PedidoService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAD4822-4774-40E6-B25F-885D8048FBF8}|..\\PedidosClient\\PedidosClient.csproj|c:\\users\\tmagalhaes\\git\\dm113-trabalhofinal\\pedidosclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAD4822-4774-40E6-B25F-885D8048FBF8}|..\\PedidosClient\\PedidosClient.csproj|c:\\users\\tmagalhaes\\git\\dm113-trabalhofinal\\pedidosclient\\pedidosclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71E370F-1031-40A7-B29F-BB88AE5C9AEC}|PedidoService.csproj|c:\\users\\tmagalhaes\\git\\dm113-trabalhofinal\\pedidoservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A71E370F-1031-40A7-B29F-BB88AE5C9AEC}|PedidoService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71E370F-1031-40A7-B29F-BB88AE5C9AEC}|PedidoService.csproj|c:\\users\\tmagalhaes\\git\\dm113-trabalhofinal\\pedidoservice\\protos\\pedidos.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A71E370F-1031-40A7-B29F-BB88AE5C9AEC}|PedidoService.csproj|solutionrelative:protos\\pedidos.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71E370F-1031-40A7-B29F-BB88AE5C9AEC}|PedidoService.csproj|c:\\users\\tmagalhaes\\git\\dm113-trabalhofinal\\pedidoservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71E370F-1031-40A7-B29F-BB88AE5C9AEC}|PedidoService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71E370F-1031-40A7-B29F-BB88AE5C9AEC}|PedidoService.csproj|c:\\users\\tmagalhaes\\git\\dm113-trabalhofinal\\pedidoservice\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71E370F-1031-40A7-B29F-BB88AE5C9AEC}|PedidoService.csproj|solutionrelative:services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tmagalhaes\\GIT\\dm113-trabalhofinal\\PedidoService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tmagalhaes\\GIT\\dm113-trabalhofinal\\PedidoService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T16:39:43.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidosClient",
+              "DocumentMoniker": "C:\\Users\\tmagalhaes\\GIT\\dm113-trabalhofinal\\PedidosClient\\PedidosClient.csproj",
+              "RelativeDocumentMoniker": "..\\PedidosClient\\PedidosClient.csproj",
+              "ToolTip": "C:\\Users\\tmagalhaes\\GIT\\dm113-trabalhofinal\\PedidosClient\\PedidosClient.csproj",
+              "RelativeToolTip": "..\\PedidosClient\\PedidosClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T16:29:29.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tmagalhaes\\GIT\\dm113-trabalhofinal\\PedidosClient\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PedidosClient\\Program.cs",
+              "ToolTip": "C:\\Users\\tmagalhaes\\GIT\\dm113-trabalhofinal\\PedidosClient\\Program.cs",
+              "RelativeToolTip": "..\\PedidosClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:27:02.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tmagalhaes\\GIT\\dm113-trabalhofinal\\PedidoService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tmagalhaes\\GIT\\dm113-trabalhofinal\\PedidoService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:25:03.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Users\\tmagalhaes\\GIT\\dm113-trabalhofinal\\PedidoService\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "Services\\GreeterService.cs",
+              "ToolTip": "C:\\Users\\tmagalhaes\\GIT\\dm113-trabalhofinal\\PedidoService\\Services\\GreeterService.cs",
+              "RelativeToolTip": "Services\\GreeterService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwFcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:15:58.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pedidos.proto",
+              "DocumentMoniker": "C:\\Users\\tmagalhaes\\GIT\\dm113-trabalhofinal\\PedidoService\\Protos\\pedidos.proto",
+              "RelativeDocumentMoniker": "Protos\\pedidos.proto",
+              "ToolTip": "C:\\Users\\tmagalhaes\\GIT\\dm113-trabalhofinal\\PedidoService\\Protos\\pedidos.proto",
+              "RelativeToolTip": "Protos\\pedidos.proto",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-07-09T16:14:23.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QsuV4B7NrZSO/Tj8sz9AJE2F9eZuBWNYC8tHjnfFehE=",
+  "Source": "PedidoService",
+  "BasePath": "_content/PedidoService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

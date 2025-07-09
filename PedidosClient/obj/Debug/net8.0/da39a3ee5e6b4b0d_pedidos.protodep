@@ -1,0 +1,2 @@
+obj\Debug\net8.0/Pedidos.cs \
+obj\Debug\net8.0/PedidosGrpc.cs: pedidos.proto

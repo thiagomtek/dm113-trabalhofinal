@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "PedidoService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\PedidosClient\\PedidosClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
