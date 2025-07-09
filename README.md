@@ -2,6 +2,9 @@
 
 Este projeto demonstra um sistema de comunicação distribuída utilizando gRPC para gerenciar a emissão e o acompanhamento de pedidos. Ele é composto por uma aplicação de servidor gRPC e uma aplicação cliente console.
 
+## Desenvolvedor:
+Thiago Ribeiro
+
 ## Funcionalidades Implementadas
 
 * **Registro de Pedidos (Operação Unária):** Permite ao cliente registrar um novo pedido enviando seus detalhes ao servidor.
