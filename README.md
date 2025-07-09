@@ -32,7 +32,7 @@ Este projeto demonstra um sistema de comunicação distribuída utilizando gRPC 
 2.  **Clonar o Repositório:**
     ```bash
     git clone https://github.com/thiagomtek/dm113-trabalhofinal.git
-    cd [pedidosService]
+    cd pedidosService
     ```
 
 3.  **Abrir a Solução no Visual Studio:**
